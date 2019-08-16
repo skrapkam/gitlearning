@@ -18,6 +18,18 @@ Useful for switching context and working on something else, especially when mid-
         - "Undoing" would mean moving back in time. 
 - `git log` to get a list of latst commits. 
     - `git log --oneline` for more concise log.
+- `git revert` ideal for public and shared repos while `git reset` better for local changes.
 
 
-### HEAD 
+### Branches 
+- `git remote` 
+    - The git remote command lets you create, view, and delete connections to other repositories.  
+    - origin Remote 
+        - When cloning a repo with `git clone`, automatically creates remote connection called origin pointing back to cloned repo. 
+
+
+### To-do 
+- Continue with [Atlassian lessons](https://www.atlassian.com/git/tutorials)
+
+
+
