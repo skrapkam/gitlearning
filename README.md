@@ -34,10 +34,7 @@ Useful for switching context and working on something else, especially when mid-
 
 ### To-do 
 - Continue with [Atlassian lessons](https://www.atlassian.com/git/tutorials)
-<<<<<<< HEAD
-=======
 - new test 
 - whatever
 
 
->>>>>>> e973e404f5aa5fb8bcd37a51c277a3cfc2c174a3
