@@ -16,7 +16,7 @@ Useful for switching context and working on something else, especially when mid-
     - Refrain from mapping Git operations to any traditional 'undo' mental model.
     - Helpful metaphor is to think of Git as a timeline where commits are a snapshot of time 
         - "Undoing" would mean moving back in time. 
-- `git log` to get a list of latst commits. 
+- `git log` to get a list of latest commits. 
     - `git log --oneline` for more concise log.
 - `git revert` ideal for public and shared repos while `git reset` better for local changes.
 
@@ -27,6 +27,10 @@ Useful for switching context and working on something else, especially when mid-
     - origin Remote 
         - When cloning a repo with `git clone`, automatically creates remote connection called origin pointing back to cloned repo. 
 
+
+### `git rebase` 
+
+- Testing new branch
 
 ### To-do 
 - Continue with [Atlassian lessons](https://www.atlassian.com/git/tutorials)
